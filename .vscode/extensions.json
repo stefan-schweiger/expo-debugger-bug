@@ -1,0 +1,10 @@
+{
+  "recommendations": [
+    "msjsdiag.vscode-react-native",
+    "streetsidesoftware.code-spell-checker",
+    "dbaeumer.vscode-eslint",
+    "esbenp.prettier-vscode",
+    "editorconfig.editorconfig",
+    "expo.vscode-expo-tools"
+  ]
+}
